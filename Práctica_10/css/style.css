@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article
+{
+    background-color: rgba(30, 70, 80, 0.904);
+    color: aliceblue;
+}
+tbody
+{
+    color: aliceblue;
+}
+nav
+{
+    background-color: black;
+}
+footer
+{
+    background-color: rgb(39, 34, 70);
+}
+thead
+{
+    background-color: black;
+}
+thead th
+{
+    color: aliceblue;
+}
+footer h5
+{
+    color: rgb(255, 255, 255);
+}
+.divimg
+{
+    background-image: url("../img/Compilador.jpg");
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    border-radius: 40px; 
+}
+.divimgc
+{
+    background-image: url("../img/Conta.jpg");
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    border-radius: 40px; 
+}
+.divimgb
+{
+    background-image: url("../img/BD.jpg");
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    border-radius: 40px; 
+}
+.vídeo1
+{
+    text-align: center;
+    height: 280px;
+    background-color: rgba(50, 53, 68, 0.904);
+}
